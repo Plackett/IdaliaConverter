@@ -1,0 +1,14 @@
+C:\Users\johnn\Desktop\Idaliaplot\obj\Debug\net7.0\IdaliaPlot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnn\Desktop\Idaliaplot\obj\Debug\net7.0\IdaliaPlot.AssemblyInfoInputs.cache
+C:\Users\johnn\Desktop\Idaliaplot\obj\Debug\net7.0\IdaliaPlot.AssemblyInfo.cs
+C:\Users\johnn\Desktop\Idaliaplot\obj\Debug\net7.0\IdaliaPlot.csproj.CoreCompileInputs.cache
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Debug\net7.0\IdaliaPlot.exe
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Debug\net7.0\IdaliaPlot.deps.json
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Debug\net7.0\IdaliaPlot.runtimeconfig.json
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Debug\net7.0\IdaliaPlot.dll
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Debug\net7.0\IdaliaPlot.pdb
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Debug\net7.0\IdaliaPlot.dll
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Debug\net7.0\refint\IdaliaPlot.dll
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Debug\net7.0\IdaliaPlot.pdb
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Debug\net7.0\IdaliaPlot.genruntimeconfig.cache
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Debug\net7.0\ref\IdaliaPlot.dll

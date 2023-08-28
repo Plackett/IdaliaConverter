@@ -1,0 +1,17 @@
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Release\net7.0-windows10.0.22621.0\IdaliaPlot.exe
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Release\net7.0-windows10.0.22621.0\IdaliaPlot.deps.json
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Release\net7.0-windows10.0.22621.0\IdaliaPlot.runtimeconfig.json
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Release\net7.0-windows10.0.22621.0\IdaliaPlot.dll
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Release\net7.0-windows10.0.22621.0\IdaliaPlot.pdb
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Release\net7.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\johnn\Desktop\IdaliaPlot\bin\Release\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Release\net7.0-windows10.0.22621.0\IdaliaPlot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Release\net7.0-windows10.0.22621.0\IdaliaPlot.AssemblyInfoInputs.cache
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Release\net7.0-windows10.0.22621.0\IdaliaPlot.AssemblyInfo.cs
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Release\net7.0-windows10.0.22621.0\IdaliaPlot.csproj.CoreCompileInputs.cache
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Release\net7.0-windows10.0.22621.0\IdaliaPlot.csproj.CopyComplete
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Release\net7.0-windows10.0.22621.0\IdaliaPlot.dll
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Release\net7.0-windows10.0.22621.0\refint\IdaliaPlot.dll
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Release\net7.0-windows10.0.22621.0\IdaliaPlot.pdb
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Release\net7.0-windows10.0.22621.0\IdaliaPlot.genruntimeconfig.cache
+C:\Users\johnn\Desktop\IdaliaPlot\obj\Release\net7.0-windows10.0.22621.0\ref\IdaliaPlot.dll
